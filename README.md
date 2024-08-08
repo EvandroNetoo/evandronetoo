@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 
 ## 🛠️ Main Technologies
 
-### Programming Languages
+### Programming Languages with More Experience
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,11 +39,3 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 
 ## 📊 GitHub Stats
 ![evandronetoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-## 📚 Currently Learning
-I'm always eager to expand my skill set. Currently, I'm diving deeper into:
-- **Advanced C Programming**
-- **Low-level system design**
-- **Obedience to authority and moral responsibility** (based on the Milgram experiment)
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
