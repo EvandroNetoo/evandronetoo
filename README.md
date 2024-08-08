@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&layout=compact&theme=radical&exclude_repo=ecliptic)
+![evandronetoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📚 Currently Learning
 I'm always eager to expand my skill set. Currently, I'm diving deeper into:
