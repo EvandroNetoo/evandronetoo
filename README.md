@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ![Agile](https://img.shields.io/badge/Agile-00427E?style=for-the-badge&logo=agile&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&layout=compact&theme=radical&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&layout=compact&theme=radical&exclude_repo=ecliptic)
 
 ## 📚 Currently Learning
 I'm always eager to expand my skill set. Currently, I'm diving deeper into:
