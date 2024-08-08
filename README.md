@@ -21,6 +21,12 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Other Tools and Knowledge
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ### A Little Experience
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -31,11 +37,6 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ![Vue](https://img.shields.io/badge/Vue-0175C2?style=for-the-badge&logo=vue&logoColor=white)
 ![React](https://img.shields.io/badge/React-0175C2?style=for-the-badge&logo=react&logoColor=white)
 
-### Other Tools and Knowledge
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
 ![evandronetoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
