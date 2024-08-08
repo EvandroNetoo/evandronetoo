@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ## 🛠️ Main Technologies
 
 ### Programming Languages with More Experience
-[![Best Prog Languages](https://skillicons.dev/icons?i=django,javascript)](https://skillicons.dev)
+[![Prog Languages](https://skillicons.dev/icons?i=django,javascript)](https://skillicons.dev)
 
 ### Web Development
 [![Web Dev](https://skillicons.dev/icons?i=python,fastapi,html,css,bootstrap)](https://skillicons.dev)
@@ -18,12 +18,9 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 
 ### Other Tools and Knowledge
 [![Other Tools](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode)](https://skillicons.dev)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### A Little Experience
+[![Experience](https://skillicons.dev/icons?i=java,dart,ts,graphql,mongodb,react,vue,flutter)](https://skillicons.dev)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
