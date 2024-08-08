@@ -5,19 +5,16 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ## 🛠️ Main Technologies
 
 ### Programming Languages with More Experience
-[![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
+[![Best Prog Languages](https://skillicons.dev/icons?i=django,javascript)](https://skillicons.dev)
 
 ### Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Web Dev](https://skillicons.dev/icons?i=python,fastapi,html,css,bootstrap)](https://skillicons.dev)
 
 ### Database
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F4B6F?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+[![Web Dev](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
 ![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F4B6F?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 
 ### Other Tools and Knowledge
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
