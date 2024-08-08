@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 ## 🛠️ Main Technologies
 
 ### Programming Languages with More Experience
-[![Prog Languages](https://skillicons.dev/icons?i=django,javascript)](https://skillicons.dev)
+[![Prog Languages](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
 
 ### Web Development
-[![Web Dev](https://skillicons.dev/icons?i=python,fastapi,html,css,bootstrap)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=django,fastapi,html,css,bootstrap)](https://skillicons.dev)
 
 ### Database
 [![Database](https://skillicons.dev/icons?i=postgres,redis,sqlite)](https://skillicons.dev)
