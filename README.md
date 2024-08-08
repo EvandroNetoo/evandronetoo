@@ -11,12 +11,13 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 [![Web Dev](https://skillicons.dev/icons?i=python,fastapi,html,css,bootstrap)](https://skillicons.dev)
 
 ### Database
-[![Web Dev](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,redis,sqlite)](https://skillicons.dev)
 ![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F4B6F?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 
 ### Other Tools and Knowledge
+[![Other Tools](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode)](https://skillicons.dev)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
