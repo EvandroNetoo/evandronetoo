@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about programming, and here you'll 
 [![Prog Languages](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
 
 ### Web Development
-[![Web Dev](https://skillicons.dev/icons?i=django,fastapi,html,css,bootstrap)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=django,fastapi,htmx,html,css,bootstrap)](https://skillicons.dev)
 
 ### Database
 [![Database](https://skillicons.dev/icons?i=postgres,redis,sqlite)](https://skillicons.dev)
