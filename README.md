@@ -1,30 +1,29 @@
-# Hi there! 👋
+# Olá! 👋
 
-Welcome to my GitHub profile! I'm passionate about programming, and here you'll find a collection of my projects and contributions. Below are some of the key technologies and languages I work with:
+Eu sou o Evandro, estudo a área da tecnologia desde 2021.
+Abaixo estão algumas das principais tecnologias e linguagens com as quais trabalho ou tenho experiência:
 
-## 🛠️ Main Technologies
+## 🛠️ Principais Tecnologias
 
-### Programming Languages with More Experience
-![Prog Languages](https://skillicons.dev/icons?i=python,javascript)
+### Linguagens de Programação com Mais Experiência
+![Linguagens de Prog](https://skillicons.dev/icons?i=python,javascript)
 
-### Web Development
-![Web Dev](https://skillicons.dev/icons?i=django,fastapi,htmx,html,css,bootstrap)
+### Desenvolvimento Web
+![Desenvolvimento Web](https://skillicons.dev/icons?i=django,fastapi,htmx,html,css,bootstrap)
 
-### Database
-![Database](https://skillicons.dev/icons?i=postgres,redis,sqlite)
+### Banco de Dados
+![Banco de Dados](https://skillicons.dev/icons?i=postgres,redis,sqlite)
 ![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Other Tools and Knowledge
-![Other Tools](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode)
+### Outras Ferramentas e Conhecimentos
+![Outras Ferramentas](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode)
 
-### A Little Experience
-![Experience](https://skillicons.dev/icons?perline=3&i=tailwind,react,vue,ts,java,dart,graphql,mongodb,flutter)
+### Um Pouco de Experiência
+![Experiência](https://skillicons.dev/icons?perline=3&i=tailwind,react,vue,ts,java,dart,graphql,mongodb,flutter)
 
+## 📊 Estatísticas do GitHub
+![Estatísticas do evandronetoo](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 📊 GitHub Stats
-![evandronetoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evandronetoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-## Social Medias
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evandronetoo/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/evandro_netoo)
+## Redes Sociais
+[![Meu LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/evandronetoo/)
+[![Meu Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/evandro_netoo)
