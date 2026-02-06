@@ -6,7 +6,7 @@ Abaixo estão algumas das principais tecnologias e linguagens com as quais traba
 ## 🛠️ Principais Tecnologias
 
 ### Linguagens de Programação com Mais Experiência
-![Linguagens de Prog](https://skillicons.dev/icons?i=python,javascript)
+![Linguagens de Prog](https://skillicons.dev/icons?i=python,javascript,django,fastapi,htmx,html,css,bootstrap,postgres,redis,sqlite,docker,linux,git,github,postman,vscode,tailwind,react,vue,ts,java,dart,graphql,mongodb,flutter)
 
 ### Desenvolvimento Web
 ![Desenvolvimento Web](https://skillicons.dev/icons?i=django,fastapi,htmx,html,css,bootstrap)
